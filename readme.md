@@ -23,7 +23,7 @@
    
 
 5. If you want do research based this code, please cite the above paper or the following published one. For any questions you can contact e-mail: Albert_An@foxmail.com. 
-
+<details>
    ```latex
    @article{an2022interpretable,
    	title={Interpretable Neural Network via Algorithm Unrolling for Mechanical Fault Diagnosis},
@@ -35,8 +35,7 @@
    	publisher={IEEE}
    }
    ```
-
+</details>
    
-
 6. Copyright reserved by the authors
 
