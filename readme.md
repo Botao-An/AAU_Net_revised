@@ -18,7 +18,7 @@
 
    
 
-4. To run the model, you should firstly prepare the dataset in a standard format as the simulated one. More details can be found in file **pre and post processing.ipynb**. Then you can run AAU-Net by file **train.py**. To check and visulize the results, you can use **pre and post processing.ipynb** again. 
+4. To run the model, you should firstly prepare the dataset in a standard format as the simulated one. More details can be found in file **ablation study and post processing.ipynb**. Then you can run AAU-Net by file **train.py**. To check and visulize the results, you can use **ablation study and post processing.ipynb** again. 
 
    
 
