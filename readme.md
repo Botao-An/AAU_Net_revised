@@ -22,7 +22,7 @@
 
    
 
-5. If you want do research based this code, please cite the above paper or the following published one. For any questions you can contact e-mail: Albert_An@foxmail.com. 
+5. If you want do research based this code, please cite the following papers. For any questions you can contact e-mail: Albert_An@foxmail.com. 
    ```latex
    @article{an2022interpretable,
       title={Interpretable Neural Network via Algorithm Unrolling for Mechanical Fault Diagnosis},
@@ -30,6 +30,15 @@
       journal={IEEE Transactions on Instrumentation and Measurement},
       volume={71},
       pages={1--11},
+      year={2022},
+      publisher={IEEE}
+   }
+   @article{an2022interpretable,
+      title={Adversarial Algorithm Unrolling Network for Interpretable Mechanical Anomaly Detection},
+      author={An, Botao and Wang, Shibin and Qin, Fuhua and Zhao, Zhibin and Yan, Ruqiang and Chen, Xuefeng},
+      journal={IEEE Transactions on Neural Networks and Learning Systems},
+      volume={},
+      pages={},
       year={2022},
       publisher={IEEE}
    }
