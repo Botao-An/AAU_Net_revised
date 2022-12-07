@@ -1,6 +1,6 @@
 # AAU-Net
 
-1. We provide the main code for paper "**Adversarial Algorithm Unrolling Network for Interpretable Mechanical Anomaly Detection**". The ablation study about the activation function selecting is included in this version. We also provided some previous prepared datasets for further analysis.
+1. We provide the main code for paper "**Adversarial Algorithm Unrolling Network for Interpretable Mechanical Anomaly Detection**". The ablation study about the activation function selecting is included in this version. 
 
    
 
@@ -14,7 +14,7 @@
 
 
 
-3. We give a demo of simulation for you to test the performance of AAU-Net initially.
+3. Besides a demo of simulation, we also provided some previous prepared datasets for further analysis.
 
    
 
