@@ -1,6 +1,6 @@
 # AAU-Net
 
-1. We provide the main code for paper "**Adversarial Algorithm Unrolling Network for Interpretable Mechanical Anomaly Detection**". The ablation study about the activation function selecting is included in this version. 
+1. We provide the main code for paper "**Adversarial Algorithm Unrolling Network for Interpretable Mechanical Anomaly Detection**". The ablation study about the activation function selecting is included in this version. We also provided some previous prepared datasets for further analysis.
 
    
 
