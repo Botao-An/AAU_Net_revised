@@ -24,15 +24,18 @@
 
 5. If you want do research based this code, please cite the above paper or the following published one. For any questions you can contact e-mail: Albert_An@foxmail.com. 
 
-@article{an2022interpretable,
-	title={Interpretable Neural Network via Algorithm Unrolling for Mechanical Fault Diagnosis},
-	author={An, Botao and Wang, Shibin and Zhao, Zhibin and Qin, Fuhua and Yan, Ruqiang and Chen, Xuefeng},
-	journal={IEEE Transactions on Instrumentation and Measurement},
-	volume={71},
-	pages={1--11},
-	year={2022},
-	publisher={IEEE}
-}
+   ```latex
+   @article{an2022interpretable,
+   	title={Interpretable Neural Network via Algorithm Unrolling for Mechanical Fault Diagnosis},
+   	author={An, Botao and Wang, Shibin and Zhao, Zhibin and Qin, Fuhua and Yan, Ruqiang and Chen, Xuefeng},
+   	journal={IEEE Transactions on Instrumentation and Measurement},
+   	volume={71},
+   	pages={1--11},
+   	year={2022},
+   	publisher={IEEE}
+   }
+   ```
+
    
 
 6. Copyright reserved by the authors
