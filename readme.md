@@ -33,7 +33,7 @@
       year={2022},
       publisher={IEEE}
    }
-   @article{an2022interpretable,
+   @article{an2022adversarial,
       title={Adversarial Algorithm Unrolling Network for Interpretable Mechanical Anomaly Detection},
       author={An, Botao and Wang, Shibin and Qin, Fuhua and Zhao, Zhibin and Yan, Ruqiang and Chen, Xuefeng},
       journal={IEEE Transactions on Neural Networks and Learning Systems},
